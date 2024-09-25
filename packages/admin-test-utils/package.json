@@ -82,8 +82,8 @@
     "@strapi/pack-up": "5.0.0",
     "@testing-library/jest-dom": "6.4.5",
     "eslint-config-custom": "workspace:*",
-    "jest-environment-jsdom": "29.6.1",
-    "styled-components": "6.1.8",
+    "jest-environment-jsdom": "29.7.0",
+    "styled-components": "6.1.13",
     "tsconfig": "workspace:*"
   },
   "peerDependencies": {

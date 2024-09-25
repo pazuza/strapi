@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "lodash": "4.17.21",
-    "winston": "3.10.0"
+    "winston": "3.14.2"
   },
   "devDependencies": {
     "@strapi/pack-up": "5.0.0",

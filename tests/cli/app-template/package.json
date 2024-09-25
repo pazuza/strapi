@@ -13,11 +13,11 @@
   "dependencies": {
     "@strapi/plugin-users-permissions": "latest",
     "@strapi/strapi": "latest",
-    "better-sqlite3": "9.4.3",
+    "better-sqlite3": "9.6.0",
     "react": "18.3.1",
     "react-dom": "18.3.1",
-    "react-router-dom": "6.21.1",
-    "styled-components": "6.1.8"
+    "react-router-dom": "6.26.2",
+    "styled-components": "6.1.13"
   },
   "engines": {
     "node": ">=18.0.0 <=20.x.x",
